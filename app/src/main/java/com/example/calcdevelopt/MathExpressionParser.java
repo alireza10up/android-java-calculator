@@ -1,10 +1,5 @@
 package com.example.calcdevelopt;
 
-import static androidx.constraintlayout.helper.widget.MotionEffect.TAG;
-
-import android.util.Log;
-
-import java.util.Arrays;
 import java.util.Stack;
 
 public class MathExpressionParser {
